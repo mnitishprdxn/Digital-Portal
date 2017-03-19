@@ -81,3 +81,58 @@ header li a{
     margin-top: -33%;
     margin-left: 50%;
  }
+
+ .slider{
+ 	height: 302px;
+ 	position: relative;
+ 	background-color: #D7D1D0;
+ 	margin-top: -20px;
+    padding-top: 26px;
+}
+ }
+
+ .slider-wrapper{
+ 	width: 90%;
+    margin: 0 auto;
+}
+
+.slider ul{
+	list-style: none;
+	    width: 86%;
+    margin-left: 53px;
+}
+
+
+.slider li{
+	width: 20%;
+	float: left;
+}
+
+.slider li+li{
+	padding-left: 54px;
+}
+
+.slider-wrapper li a img{
+	width: 268px;
+}
+
+.slider-wrapper a{
+	text-decoration: none;
+	color: #2F0006;
+}
+
+.slider-left-arrow{
+	position: absolute;
+	margin-top: 44px;
+	    margin-left: 53px;
+}
+
+
+
+.slider-right-arrow{
+	position: absolute;
+	margin-top: 35px;
+  	margin-left: 93%;
+}
+
+
