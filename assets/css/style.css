@@ -67,6 +67,17 @@ header li a{
 	background-image: url('../images/Grass_Image_02.jpg');
 	background-repeat: no-repeat;
 }
+
+.video{
+	position: relative;
+}
+
  .video img{
  	width: 100%;
+ }
+
+ .video a{
+ 	position: absolute;
+    margin-top: -33%;
+    margin-left: 50%;
  }
