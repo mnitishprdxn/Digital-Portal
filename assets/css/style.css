@@ -135,4 +135,46 @@ header li a{
   	margin-left: 93%;
 }
 
+.how-it-works{
+	margin-top: -19px;
+    padding: 40px;
+}
 
+.how-it-works h2{
+	font-size: 37px;
+	
+}
+
+.how-it-works p{
+	font-size: 30px;
+}
+
+section{
+	text-align: center;
+}
+
+section article{
+	    text-align: left;
+    width: 86%;
+    margin: 0 auto;
+}
+
+.first-article{
+	width: 52%;
+}
+
+article img{
+	float: right; 
+	margin-top: -245px;
+    width: 43%;
+        height: 212px;
+}
+
+
+.first-article p{
+	font-size: 24px;
+}
+
+.first-article h2{
+	font-size: 26px;
+}
